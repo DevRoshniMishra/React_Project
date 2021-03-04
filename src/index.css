@@ -1,0 +1,21 @@
+.not-found{
+    position:fixed;
+    top:0;
+    background-color:white;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    color:red;
+    align-items: center;
+}
+.form-alignment{
+    text-align:center;
+    position:fixed;
+    border:1px solid lightgray;
+    height:50vh;
+    width:50vw;
+    justify-content: center;
+    align-items: center;
+    margin-left:350px;
+}

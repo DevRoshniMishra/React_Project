@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Local Test",
+      "username": "locattest",
+      "email": "localtest@gmail.com",
+      "phone": "11111111",
+      "website": "www.localtest.com",
+      "id": 1
+    },
+    {
+      "name": "Local test2",
+      "username": "localtest@123",
+      "email": "localtest@gmail.com",
+      "phone": "11111111",
+      "website": "localtest.com",
+      "id": 2
+    },
+    {
+      "name": "Roshni mishra",
+      "username": "roshni mishra",
+      "email": "roshnimishra401@gmail.com",
+      "phone": "11111111111",
+      "website": "roshni.com",
+      "id": 3
+    },
+    {
+      "name": "Rishikesh Mishra",
+      "username": "Rishi_mishra__",
+      "email": "rishikesh01@gmail.com",
+      "phone": "111111111",
+      "website": "www.rishikesh.com",
+      "id": 4
+    },
+    {
+      "name": "Pick Bar",
+      "username": "pick@1235",
+      "email": "pick@gmail.com",
+      "phone": "111111111",
+      "website": "pickbar.com",
+      "id": 5
+    }
+  ]
+}
